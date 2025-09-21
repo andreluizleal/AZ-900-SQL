@@ -7,3 +7,15 @@ https://learn.microsoft.com/pt-br/azure/azure-sql/managed-instance/instance-crea
 
 link para acesso ao banco criado
 https://learn.microsoft.com/pt-br/azure/azure-sql/managed-instance/connect-application-instance?view=azuresql
+
+
+
+
+IAAS
+exemplo: servidor configurado na azure
+
+PAAS
+exemplo: Instancia do sql server na azure
+
+SAAS
+Exemplo: uso do office 365
